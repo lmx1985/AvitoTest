@@ -1,0 +1,1 @@
+# Для работы скрипта нужен Python 3.9 и Selenium webdriver
